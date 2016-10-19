@@ -10,8 +10,8 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
-  - GRANT ALL PRIVILEGES ON *.* to 'gps-sharing'@'%' identified by 'gps-sharing' WITH GRANT OPTION;
-  - FLUSH PRIVILEGES;
+  - `GRANT ALL PRIVILEGES ON *.* to 'gps-sharing'@'%' identified by 'gps-sharing' WITH GRANT OPTION`
+  - `FLUSH PRIVILEGES`
 
 * Database creation
 
